@@ -1,3 +1,12 @@
+==Version 0.5==
+
+[[http://script-solution.de/escape/screenshots/v0.5/uimng.png|title= UI Manager]]
+[[http://script-solution.de/escape/screenshots/v0.5/lspciacpi.png|title= lspci and lsacpi]]
+[[http://script-solution.de/escape/screenshots/v0.5/mountspace.png|title= Mountspaces]]
+[[http://script-solution.de/escape/screenshots/v0.5/gui-login.png|title= GUI Login]]
+[[http://script-solution.de/escape/screenshots/v0.5/gui-apps1.png|title= Some GUI applications 1]]
+[[http://script-solution.de/escape/screenshots/v0.5/gui-apps2.png|title= Some GUI applications 2]]
+
 ==Version 0.4==
 
 [[http://script-solution.de/escape/screenshots/v0.4/boot.png|title= Boot progress]]

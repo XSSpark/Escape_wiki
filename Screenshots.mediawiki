@@ -1,6 +1,7 @@
 ==Version 0.5==
 
 [[http://script-solution.de/escape/screenshots/v0.5/uimng.png|title= UI Manager]]
+[[http://script-solution.de/escape/screenshots/v0.5/pstree.png|title= pstree]]
 [[http://script-solution.de/escape/screenshots/v0.5/lspciacpi.png|title= lspci and lsacpi]]
 [[http://script-solution.de/escape/screenshots/v0.5/mountspace.png|title= Mountspaces]]
 [[http://script-solution.de/escape/screenshots/v0.5/gui-login.png|title= GUI Login]]

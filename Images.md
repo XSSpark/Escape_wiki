@@ -1,3 +1,10 @@
+## Version 0.5
+
+* [i586 CD-Image](http://script-solution.de/escape/downloads/v0.5/escape-0.5-i586-cd.tar.bz2)
+* [i586 HD-Image](http://script-solution.de/escape/downloads/v0.5/escape-0.5-i586-hd.tar.bz2)
+* [ECO32 HD-Image](http://script-solution.de/escape/downloads/v0.5/escape-0.5-eco32-hd.tar.bz2)
+* [MMIX HD-Image](http://script-solution.de/escape/downloads/v0.5/escape-0.5-mmix-hd.tar.bz2)
+
 ## Version 0.4
 
 * [i586 CD-Image](http://script-solution.de/escape/downloads/v0.4/escape-i586-cd-0.4.tar.bz2)

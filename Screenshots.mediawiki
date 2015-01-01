@@ -1,3 +1,16 @@
+==Version 0.6==
+
+[[http://script-solution.de/escape/screenshots/v0.6/network.png|title= Network support]]
+[[http://script-solution.de/escape/screenshots/v0.6/lenovo-network.jpg|title= Network support on real HW]]
+[[http://script-solution.de/escape/screenshots/v0.6/http.png|title= http as a file]]
+[[http://script-solution.de/escape/screenshots/v0.6/ftpfs.png|title= access to FTP via filesystem]]
+[[http://script-solution.de/escape/screenshots/v0.6/tetris.png|title= Tetris]]
+[[http://script-solution.de/escape/screenshots/v0.6/ramdisk.png|title= Ramdisk and mke2fs]]
+[[http://script-solution.de/escape/screenshots/v0.6/x86_64.png|title= x86_64 support]]
+[[http://script-solution.de/escape/screenshots/v0.6/tar.png|title= tar support]]
+[[http://script-solution.de/escape/screenshots/v0.6/tarfs.png|title= tar as a filesystem]]
+[[http://script-solution.de/escape/screenshots/v0.6/gzip.png|title= gzip and gunzip]]
+
 ==Version 0.5==
 
 [[http://script-solution.de/escape/screenshots/v0.5/uimng.png|title= UI Manager]]

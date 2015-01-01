@@ -1,80 +1,268 @@
 ==Version 0.6==
 
+'''Network support:'''
+
 [[http://script-solution.de/escape/screenshots/v0.6/network.png|title= Network support]]
+
+'''Network support on real HW:'''
+
 [[http://script-solution.de/escape/screenshots/v0.6/lenovo-network.jpg|title= Network support on real HW]]
+
+'''HTTP as a file:'''
+
 [[http://script-solution.de/escape/screenshots/v0.6/http.png|title= http as a file]]
+
+'''Access to FTP via filesystem:'''
+
 [[http://script-solution.de/escape/screenshots/v0.6/ftpfs.png|title= access to FTP via filesystem]]
+
+'''Tetris:'''
+
 [[http://script-solution.de/escape/screenshots/v0.6/tetris.png|title= Tetris]]
+
+'''Ramdisk and mke2fs:'''
+
 [[http://script-solution.de/escape/screenshots/v0.6/ramdisk.png|title= Ramdisk and mke2fs]]
+
+'''x86_64 support:'''
+
 [[http://script-solution.de/escape/screenshots/v0.6/x86_64.png|title= x86_64 support]]
+
+'''tar support:'''
+
 [[http://script-solution.de/escape/screenshots/v0.6/tar.png|title= tar support]]
+
+'''tar as a filesystem:'''
+
 [[http://script-solution.de/escape/screenshots/v0.6/tarfs.png|title= tar as a filesystem]]
+
+'''gzip and gunzip:'''
+
 [[http://script-solution.de/escape/screenshots/v0.6/gzip.png|title= gzip and gunzip]]
+
 
 ==Version 0.5==
 
+'''UI Manager:'''
+
 [[http://script-solution.de/escape/screenshots/v0.5/uimng.png|title= UI Manager]]
+
+'''pstree:'''
+
 [[http://script-solution.de/escape/screenshots/v0.5/pstree.png|title= pstree]]
+
+'''lspci and lsacpi:'''
+
 [[http://script-solution.de/escape/screenshots/v0.5/lspciacpi.png|title= lspci and lsacpi]]
+
+'''Mountspaces:'''
+
 [[http://script-solution.de/escape/screenshots/v0.5/mountspace.png|title= Mountspaces]]
+
+'''GUI Login:'''
+
 [[http://script-solution.de/escape/screenshots/v0.5/gui-login.png|title= GUI Login]]
+
+'''Some GUI applications 1:'''
+
 [[http://script-solution.de/escape/screenshots/v0.5/gui-apps-1.png|title= Some GUI applications 1]]
+
+'''Some GUI applications 2:'''
+
 [[http://script-solution.de/escape/screenshots/v0.5/gui-apps-2.png|title= Some GUI applications 2]]
+
 
 ==Version 0.4==
 
+'''Boot progress:'''
+
 [[http://script-solution.de/escape/screenshots/v0.4/boot.png|title= Boot progress]]
+
+'''Dynamic linking:'''
+
 [[http://script-solution.de/escape/screenshots/v0.4/dynlink.png|title= Dynamic linking]]
+
+'''Users and groups:'''
+
 [[http://script-solution.de/escape/screenshots/v0.4/groups.png|title= Users and groups]]
+
+'''GUI scrollpanes:'''
+
 [[http://script-solution.de/escape/screenshots/v0.4/gui1.png|title= GUI scrollpanes]]
+
+'''GUI window moving:'''
+
 [[http://script-solution.de/escape/screenshots/v0.4/gui2.png|title= GUI window moving]]
+
+'''Kernel debugging console 1:'''
+
 [[http://script-solution.de/escape/screenshots/v0.4/kdbg1.png|title= Kernel debugging console 1]]
+
+'''Kernel debugging console 2:'''
+
 [[http://script-solution.de/escape/screenshots/v0.4/kdbg2.png|title= Kernel debugging console 2]]
+
+'''Kernel debugging console 3:'''
+
 [[http://script-solution.de/escape/screenshots/v0.4/kdbg3.png|title= Kernel debugging console 3]]
+
+'''Maps of a process:'''
+
 [[http://script-solution.de/escape/screenshots/v0.4/maps.png|title= Maps of a process]]
+
+'''The shell-language:'''
+
 [[http://script-solution.de/escape/screenshots/v0.4/shelllang.png|title= The shell-language]]
+
+'''SMP support:'''
+
 [[http://script-solution.de/escape/screenshots/v0.4/smp.png|title= SMP support]]
+
+'''Listing the running threads:'''
+
 [[http://script-solution.de/escape/screenshots/v0.4/threads.png|title= Listing the running threads]]
+
+'''Running on bochs:'''
+
 [[http://script-solution.de/escape/screenshots/v0.4/bochs.png|title= Running on bochs]]
+
+'''Running on VirtualBox:'''
+
 [[http://script-solution.de/escape/screenshots/v0.4/vbox.png|title= Running on VirtualBox]]
+
+'''Running on VMWare:'''
+
 [[http://script-solution.de/escape/screenshots/v0.4/vmware.png|title= Running on VMWare]]
+
+'''Running on real-machine 1:'''
+
 [[http://script-solution.de/escape/screenshots/v0.4/desktop.png|title= Running on real-machine 1]]
+
+'''Running on real machine 2:'''
+
 [[http://script-solution.de/escape/screenshots/v0.4/nb1.png|title= Running on real machine 2]]
+
+'''Running on real machine 3:'''
+
 [[http://script-solution.de/escape/screenshots/v0.4/nb2.png|title= Running on real machine 3]]
+
+'''Running on ECO32 1:'''
+
 [[http://script-solution.de/escape/screenshots/v0.4/eco321.png|title= Running on ECO32 1]]
+
+'''Running on ECO32 2:'''
+
 [[http://script-solution.de/escape/screenshots/v0.4/eco322.png|title= Running on ECO32 2]]
+
+'''Running on MMIX 1:'''
+
 [[http://script-solution.de/escape/screenshots/v0.4/mmix1.png|title= Running on MMIX 1]]
+
+'''Running on MMIX 2:'''
+
 [[http://script-solution.de/escape/screenshots/v0.4/mmix2.png|title= Running on MMIX 2]]
+
 
 ==Version 0.3==
 
+'''ATAPI &amp; ISO9660:'''
+
 [[http://script-solution.de/escape/screenshots/v0.3/atapi_iso9660.png|title= ATAPI &amp; ISO9660]]
+
+'''PCI-info:'''
+
 [[http://script-solution.de/escape/screenshots/v0.3/pciinfo.png|title= PCI-info]]
+
+'''VBE-info:'''
+
 [[http://script-solution.de/escape/screenshots/v0.3/vbeinfo.png|title= VBE-info]]
+
+'''Processes:'''
+
 [[http://script-solution.de/escape/screenshots/v0.3/processes.png|title= Processes]]
+
+'''dump /dev/random | less:'''
+
 [[http://script-solution.de/escape/screenshots/v0.3/unlimpipes.png|title= dump /dev/random | less]]
+
+'''Raptor:'''
+
 [[http://script-solution.de/escape/screenshots/v0.3/raptor.png|title= Raptor]]
+
+'''The shell-scripting-language:'''
+
 [[http://script-solution.de/escape/screenshots/v0.3/shellscript.png|title= The shell-scripting-language]]
+
+'''GUI-shell:'''
+
 [[http://script-solution.de/escape/screenshots/v0.3/guishell.png|title= GUI-shell]]
+
+'''GUI-controls:'''
+
 [[http://script-solution.de/escape/screenshots/v0.3/controls.png|title= GUI-controls]]
+
+'''Resizing of windows:'''
+
 [[http://script-solution.de/escape/screenshots/v0.3/winresize.png|title= Resizing of windows]]
+
 
 ==Version 0.2==
 
+'''Colortable piped through cat:'''
+
 [[http://script-solution.de/escape/screenshots/v0.2/colortbl.png|title= Colortable piped through cat]]
+
+'''Read from driver:'''
+
 [[http://script-solution.de/escape/screenshots/v0.2/dumpdriver.png|title= Read from driver]]
+
+'''The root-directory:'''
+
 [[http://script-solution.de/escape/screenshots/v0.2/ls.png|title= The root-directory]]
+
+'''Running processes:'''
+
 [[http://script-solution.de/escape/screenshots/v0.2/ps.png|title= Running processes]]
+
+'''Recursive mounting ^^:'''
+
 [[http://script-solution.de/escape/screenshots/v0.2/mount.png|title= Recursive mounting ^^]]
+
+'''The GUI:'''
+
 [[http://script-solution.de/escape/screenshots/v0.2/gui1.png|title= The GUI]]
+
+'''The GUI - combobox:'''
+
 [[http://script-solution.de/escape/screenshots/v0.2/gui2.png|title= The GUI - combobox]]
+
 
 ==Version 0.1==
 
+'''After the start:'''
+
 [[http://script-solution.de/escape/screenshots/v0.1/start.png|title= After the start]]
+
+'''Help - part1:'''
+
 [[http://script-solution.de/escape/screenshots/v0.1/help1.png|title= Help - part1]]
+
+'''Help - part2:'''
+
 [[http://script-solution.de/escape/screenshots/v0.1/help2.png|title= Help - part2]]
+
+'''Running processes:'''
+
 [[http://script-solution.de/escape/screenshots/v0.1/ps.png|title= Running processes]]
+
+'''The program ls:'''
+
 [[http://script-solution.de/escape/screenshots/v0.1/ls.png|title= The program ls]]
+
+'''Playing with the shell ;):'''
+
 [[http://script-solution.de/escape/screenshots/v0.1/shell.png|title= Playing with the shell ;)]]
+
+'''Read information from VFS:'''
+
 [[http://script-solution.de/escape/screenshots/v0.1/infos.png|title= Read information from VFS]]

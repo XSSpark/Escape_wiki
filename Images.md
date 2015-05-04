@@ -1,3 +1,5 @@
+Note: If you want to try Escape in QEMU, you unfortunately need to build QEMU yourself and apply [this patch](https://github.com/Nils-TUD/Escape/blob/master/source/tools/0001-Use-the-CPU-address-space-not-PCI-device-AS.patch) to it.
+
 ## Version 0.6
 
 * [i586 CD-Image](http://script-solution.de/escape/downloads/v0.6/escape-0.6-i586-cd.tar.bz2)

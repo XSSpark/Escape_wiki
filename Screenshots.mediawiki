@@ -1,3 +1,53 @@
+==Version 0.7==
+
+'''Escape runs on gem5:'''
+
+[[http://script-solution.de/escape/screenshots/v0.7/gem5.png|title= Escape runs on gem5]]
+
+'''System call tracing:'''
+
+[[http://script-solution.de/escape/screenshots/v0.7/strace.png|title= System call tracing]]
+
+'''The tool du:'''
+
+[[http://script-solution.de/escape/screenshots/v0.7/du.png|title= The tool du]]
+
+'''The tool uictrl:'''
+
+[[http://script-solution.de/escape/screenshots/v0.7/uictrl.png|title= The tool uictrl]]
+
+'''Symbolic links:'''
+
+[[http://script-solution.de/escape/screenshots/v0.7/symlinks.png|title= Symbolic links]]
+
+'''Drivers and services as unprivileged users:'''
+
+[[http://script-solution.de/escape/screenshots/v0.7/user-drivers.png|title= Drivers and services as unprivileged users]]
+
+'''Sandboxing example:'''
+
+[[http://script-solution.de/escape/screenshots/v0.7/sandbox1.png|title= Sandboxing example]]
+
+'''Nested sandboxes:'''
+
+[[http://script-solution.de/escape/screenshots/v0.7/sandbox2.png|title= Nested sandboxes]]
+
+'''Text plasma:'''
+
+[[http://script-solution.de/escape/screenshots/v0.7/tuiplasma.png|title= Text plasma]]
+
+'''Graphical plasma:'''
+
+[[http://script-solution.de/escape/screenshots/v0.7/guiplasma.png|title= Graphical plasma]]
+
+'''GUI applications:'''
+
+[[http://script-solution.de/escape/screenshots/v0.7/guiapps.png|title= GUI applications]]
+
+'''Fileman enhancements:'''
+
+[[http://script-solution.de/escape/screenshots/v0.7/fileman.png|title= Fileman enhancements]]
+
 ==Version 0.6==
 
 '''Network support:'''

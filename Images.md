@@ -1,4 +1,13 @@
-Note: If you want to try Escape in QEMU, you unfortunately need to build QEMU yourself and apply [this patch](https://github.com/Nils-TUD/Escape/blob/master/source/tools/0001-Use-the-CPU-address-space-not-PCI-device-AS.patch) to it.
+Note: If you want to try Escape in QEMU, you either need to add the argument "nodma" to the ata boot module in GRUB or you need to build QEMU yourself and apply [this patch](https://github.com/Nils-TUD/Escape/blob/master/source/tools/0001-Use-the-CPU-address-space-not-PCI-device-AS.patch) to it.
+
+## Version 0.7
+
+* [i586 CD-Image](http://script-solution.de/escape/downloads/v0.7/escape-0.7-i586-cd.tar.bz2)
+* [i586 HD-Image](http://script-solution.de/escape/downloads/v0.7/escape-0.7-i586-hd.tar.bz2)
+* [x86_64 CD-Image](http://script-solution.de/escape/downloads/v0.7/escape-0.7-x86_64-cd.tar.bz2)
+* [x86_64 HD-Image](http://script-solution.de/escape/downloads/v0.7/escape-0.7-x86_64-hd.tar.bz2)
+* [ECO32 HD-Image](http://script-solution.de/escape/downloads/v0.7/escape-0.7-eco32-hd.tar.bz2)
+* [MMIX HD-Image](http://script-solution.de/escape/downloads/v0.7/escape-0.7-mmix-hd.tar.bz2)
 
 ## Version 0.6
 
